@@ -12,3 +12,9 @@ funcion onMouseMove(event) {
 canvas.addEventListener('mousemove', onMouseMove);
 
 ```
+
+### canvas
+
+convas는 context를 갖고 있는 HTML의 요소
+context는 canvas 안에서 픽셀들을 컨트롤 할 수 있음
+https://developer.mozilla.org/ko/docs/Web/API/Canvas_API/Tutorial/Basic_usage
